@@ -1,0 +1,12 @@
+@charset "UTF-8";
+h1 {font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+p {font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+h2 {font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+section{background-color:azure}
+body{background-color:darkgray}
+footer {font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+footer {align-content: center}
+img {
+	width: 400px
+	height: 300px
+}
